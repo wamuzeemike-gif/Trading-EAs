@@ -1,0 +1,33 @@
+# MetaTrader compiled files
+*.ex4
+*.ex5
+
+# MetaTrader temporary files
+*.log
+*.tpl
+*.set
+
+# Development and testing files
+/tmp/
+temp/
+*.tmp
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+out/
